@@ -6,25 +6,26 @@
 
 <img align="right" src="img/plexus.gif" width="50%">
 
-- 🔭 I’m currently working as a Data Scientist II at Rayn Group
+- 🔭 I’m currently working as a Data Scientist II at Rayn Group.
+- 📚 I was the first ever student to graduate from FAST-NUCES in 7 semesters with extra credits.
 - 💬 Feel free to hit me up for anything, I'm happy to help you out.
 - 📫 How to contact me: abdullahbilal64@gmail.com
 - ⚡ Fun fact: A cloud weighs around a million tonnes.
 
 ## 🧑‍💻 Tech Stack
 
-<img src="img/python-seeklogo.svg" width="5%">
-<img src="img/java-seeklogo.svg " width="4%">
-<img src="img/c-language-seeklogo.svg " width="5%">
-<img src="img/c-seeklogo.svg " width="5%">
-<img src="img/r-project-seeklogo.svg " width="7%">
-<img src="img/sql-seeklogo.svg" width="10%">
-<img src="img/mysql-seeklogo.svg" width="5%">
-<img src="img/pngegg.png" width="5%">
-<img src="img/jupyter-seeklogo.svg" width="4%">
-<img src="img/tensorflow-seeklogo.svg" width="4%">
-<img src="img/pytorch-seeklogo.svg" width="4%">
-<img src="img/spark-seeklogo.svg" width="10%">
+<img src="img/python-seeklogo.svg" width="5%" align="left">
+<img src="img/java-seeklogo.svg " width="4%" align="left">
+<img src="img/c-language-seeklogo.svg " width="5%" align="left">
+<img src="img/c-seeklogo.svg " width="5%" align="left">
+<img src="img/r-project-seeklogo.svg " width="7%" align="left">
+<img src="img/sql-seeklogo.svg" width="10%" align="left">
+<img src="img/mysql-seeklogo.svg" width="5%" align="left">
+<img src="img/pngegg.png" width="5%" align="left">
+<img src="img/jupyter-seeklogo.svg" width="4%" align="left">
+<img src="img/tensorflow-seeklogo.svg" width="4%" align="left">
+<img src="img/pytorch-seeklogo.svg" width="4%" align="left">
+<img src="img/spark-seeklogo.svg" width="10%" align="left">
 
 <img src="img/github-snake-dark.svg">
 
