@@ -1,16 +1,22 @@
-### Hi there 👋
-### I'm Abdullah
+<img align="center" src="img/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572.svg" width="100%">
+
+### Hi there 👋 I'm Abdullah
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Scientist+%F0%9F%93%8A%F0%9F%93%88)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=abdullahbilal64&color=green)
-
 <img align="right" src="img/plexus.gif" width="50%">
+
+![](https://komarev.com/ghpvc/?username=abdullahbilal64&color=green)
 
 - 🔭 I’m currently working as a Data Scientist II at Rayn Group.
 - 📚 I was the first ever student to graduate from FAST-NUCES in 7 semesters with extra credits.
 - 💬 Feel free to hit me up for anything, I'm happy to help you out.
 - 📫 How to contact me: abdullahbilal64@gmail.com
 - ⚡ Fun fact: A cloud weighs around a million tonnes.
+<br/>
+<br/>
+<br/>
+
 
 ## 🧑‍💻 Tech Stack
 
