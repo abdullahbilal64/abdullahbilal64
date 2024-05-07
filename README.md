@@ -4,9 +4,31 @@
 
 ![](https://komarev.com/ghpvc/?username=abdullahbilal64&color=green)
 
-🔭 I’m currently working as a Data Scientist II at Rayn Group
+<img align="right" src="img/plexus.gif" width="50%">
+
+- 🔭 I’m currently working as a Data Scientist II at Rayn Group
+- 💬 Feel free to hit me up for anything, I'm happy to help you out.
+- 📫 How to contact me: abdullahbilal64@gmail.com
+- ⚡ Fun fact: A cloud weighs around a million tonnes.
 
 ## 🧑‍💻 Tech Stack
+
+<img src="img/python-seeklogo.svg" width="5%">
+<img src="img/java-seeklogo.svg " width="4%">
+<img src="img/c-language-seeklogo.svg " width="5%">
+<img src="img/c-seeklogo.svg " width="5%">
+<img src="img/r-project-seeklogo.svg " width="7%">
+<img src="img/sql-seeklogo.svg" width="10%">
+<img src="img/mysql-seeklogo.svg" width="5%">
+<img src="img/pngegg.png" width="5%">
+<img src="img/jupyter-seeklogo.svg" width="4%">
+<img src="img/tensorflow-seeklogo.svg" width="4%">
+<img src="img/pytorch-seeklogo.svg" width="4%">
+<img src="img/spark-seeklogo.svg" width="10%">
+
+<img src="img/github-snake-dark.svg">
+
+<img src="img/github-icon-seeklogo.svg" width="2%"> Github Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahbilal64)](https://git.io/streak-stats)
 <!--
@@ -21,5 +43,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: A cloud weighs around a million tonnes.
 -->
