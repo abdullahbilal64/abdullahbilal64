@@ -37,7 +37,7 @@
 
 <img src="img/github-icon-seeklogo.svg" width="2%"> Github Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahbilal64)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahbilal64&theme=dark)](https://git.io/streak-stats)
 <!--
 **abdullahbilal64/abdullahbilal64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
