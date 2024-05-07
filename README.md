@@ -1,11 +1,14 @@
 ### Hi there 👋
-
+### I'm Abdullah
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Scientist+%F0%9F%93%8A%F0%9F%93%88)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=abdullahbilal64&color=green)
 
 🔭 I’m currently working as a Data Scientist II at Rayn Group
 
+## 🧑‍💻 Tech Stack
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahbilal64)](https://git.io/streak-stats)
 <!--
 **abdullahbilal64/abdullahbilal64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
