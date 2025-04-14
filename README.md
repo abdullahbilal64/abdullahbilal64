@@ -3,9 +3,9 @@
 ### Hi there 👋 I'm Abdullah
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Scientist+%F0%9F%93%8A%F0%9F%93%88)](https://git.io/typing-svg)
-
+<!--
 <img align="right" src="img/plexus.gif" width="50%">
-
+-->
 ![](https://komarev.com/ghpvc/?username=abdullahbilal64&color=green)
 
 - 🔭 I’m currently working as a Data Scientist II at Rayn Group.
@@ -32,9 +32,9 @@
 <img src="img/tensorflow-seeklogo.svg" width="4%" align="left">
 <img src="img/pytorch-seeklogo.svg" width="4%" align="left">
 <img src="img/spark-seeklogo.svg" width="10%" align="left">
-
+<!--
 <img src="img/github-snake-dark.svg">
-
+-->
 <img src="img/github-icon-seeklogo.svg" width="2%"> Github Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahbilal64&theme=dark)](https://git.io/streak-stats)
