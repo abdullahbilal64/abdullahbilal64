@@ -40,19 +40,6 @@ Always open to collaborations and interesting conversations.
 
 ## GitHub Stats
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdullahbilal64&show_icons=true&hide_border=true&title_color=ffffff&icon_color=6BAF7A&text_color=9ca3af&bg_color=1a1f1a" width="48%" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abdullahbilal64&show_icons=true&hide_border=true&title_color=2F4F3F&icon_color=2F4F3F&text_color=333333&bg_color=F5F5F0" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abdullahbilal64&show_icons=true&hide_border=true&title_color=2F4F3F&icon_color=2F4F3F&text_color=333333&bg_color=F5F5F0" width="48%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahbilal64&layout=compact&hide_border=true&title_color=ffffff&text_color=9ca3af&bg_color=1a1f1a" width="41%" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahbilal64&layout=compact&hide_border=true&title_color=2F4F3F&text_color=333333&bg_color=F5F5F0" width="41%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahbilal64&layout=compact&hide_border=true&title_color=2F4F3F&text_color=333333&bg_color=F5F5F0" width="41%" />
-  </picture>
-</div>
-
 <br/>
 
 <div align="center">
