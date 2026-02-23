@@ -9,14 +9,14 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/View_Projects-2F4F3F?style=for-the-badge&logoColor=white)](https://www.abdullah-bilal.com/#projects)
-[![CV](https://img.shields.io/badge/Download_CV-F5F5F0?style=for-the-badge&logoColor=2F4F3F)](https://www.abdullah-bilal.com/CV_Muhammad_Abdullah_Bilal.pdf)
+[![Portfolio](https://img.shields.io/badge/Website-2F4F3F?style=for-the-badge&logoColor=white)](https://www.abdullah-bilal.com/)
+[![CV](https://img.shields.io/badge/CV-F5F5F0?style=for-the-badge&logoColor=2F4F3F)](https://www.abdullah-bilal.com/CV_Muhammad_Abdullah_Bilal.pdf)
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/-abdullahbilal64-2F4F3F?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahbilal64)
-[![LinkedIn](https://img.shields.io/badge/-Abdullah_Bilal-2F4F3F?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahbilal64)
-[![Email](https://img.shields.io/badge/-hello@abdullah--bilal.com-2F4F3F?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@abdullah-bilal.com)
+[![LinkedIn](https://img.shields.io/badge/-Abdullah_Bilal-2F4F3F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-bilal/)
+[![Email](https://img.shields.io/badge/-hello@abdullah--bilal.com-2F4F3F?style=flat-square&logo=maildotru&logoColor=white)](mailto:hello@abdullah-bilal.com)
 
 </div>
 
