@@ -1,54 +1,74 @@
-<img align="center" src="img/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572.svg" width="100%">
+<div align="center">
 
-### Hi there 👋 I'm Abdullah
+# Abdullah Bilal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Scientist+at+Ekai+%F0%9F%93%8A%F0%9F%93%88)](https://git.io/typing-svg)
-<!--
-<img align="right" src="img/plexus.gif" width="50%">
--->
-![](https://komarev.com/ghpvc/?username=abdullahbilal64&color=green)
+### AI Engineer & Data Scientist
 
-- 🔭 I’m currently working as a Data Scientist II at Ekai.
-- 📚 I was the first ever student to graduate from FAST-NUCES in 7 semesters with extra credits.
-- 💬 Feel free to hit me up for anything, I'm happy to help you out.
-- 📫 How to contact me: abdullahbilal64@gmail.com
-- ⚡ Fun fact: A cloud weighs around a million tonnes.
-<br/>
-<br/>
+*Building intelligent systems that turn data into actionable insights.*  
+*Passionate about LLMs, knowledge graphs, and scalable ML pipelines.*
+
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/View_Projects-2F4F3F?style=for-the-badge&logoColor=white)](https://www.abdullah-bilal.com/#projects)
+[![CV](https://img.shields.io/badge/Download_CV-F5F5F0?style=for-the-badge&logoColor=2F4F3F)](https://www.abdullah-bilal.com/CV_Muhammad_Abdullah_Bilal.pdf)
 
-## 🧑‍💻 Tech Stack
+<br/>
 
-<img src="img/python-seeklogo.svg" width="5%" align="left">
-<img src="img/java-seeklogo.svg " width="4%" align="left">
-<img src="img/c-language-seeklogo.svg " width="5%" align="left">
-<img src="img/c-seeklogo.svg " width="5%" align="left">
-<img src="img/r-project-seeklogo.svg " width="7%" align="left">
-<img src="img/sql-seeklogo.svg" width="10%" align="left">
-<img src="img/mysql-seeklogo.svg" width="5%" align="left">
-<img src="img/pngegg.png" width="5%" align="left">
-<img src="img/jupyter-seeklogo.svg" width="4%" align="left">
-<img src="img/tensorflow-seeklogo.svg" width="4%" align="left">
-<img src="img/pytorch-seeklogo.svg" width="4%" align="left">
-<img src="img/spark-seeklogo.svg" width="10%" align="left">
-<!--
-<img src="img/github-snake-dark.svg">
--->
-<img src="img/github-icon-seeklogo.svg" width="2%"> Github Stats:
+[![GitHub](https://img.shields.io/badge/-abdullahbilal64-2F4F3F?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullahbilal64)
+[![LinkedIn](https://img.shields.io/badge/-Abdullah_Bilal-2F4F3F?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahbilal64)
+[![Email](https://img.shields.io/badge/-hello@abdullah--bilal.com-2F4F3F?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@abdullah-bilal.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahbilal64&theme=dark)](https://git.io/streak-stats)
-<!--
-**abdullahbilal64/abdullahbilal64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: A cloud weighs around a million tonnes.
--->
+## About
+
+I specialize in building **AI-powered systems** and **data pipelines** that transform raw data into actionable business insights. My work spans from developing production-grade ML models to architecting scalable data infrastructure.
+
+Currently a **Data Scientist at Ekai**. First to graduate from FAST-NUCES in 7 semesters with extra credits.
+
+Always open to collaborations and interesting conversations.
+
+---
+
+## Skills
+
+`Python` `SQL` `TensorFlow` `PyTorch` `Spark` `Docker` `AWS`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdullahbilal64&show_icons=true&hide_border=true&title_color=ffffff&icon_color=6BAF7A&text_color=9ca3af&bg_color=1a1f1a" width="48%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abdullahbilal64&show_icons=true&hide_border=true&title_color=2F4F3F&icon_color=2F4F3F&text_color=333333&bg_color=F5F5F0" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullahbilal64&show_icons=true&hide_border=true&title_color=2F4F3F&icon_color=2F4F3F&text_color=333333&bg_color=F5F5F0" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahbilal64&layout=compact&hide_border=true&title_color=ffffff&text_color=9ca3af&bg_color=1a1f1a" width="41%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahbilal64&layout=compact&hide_border=true&title_color=2F4F3F&text_color=333333&bg_color=F5F5F0" width="41%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahbilal64&layout=compact&hide_border=true&title_color=2F4F3F&text_color=333333&bg_color=F5F5F0" width="41%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abdullahbilal64&hide_border=true&ring=6BAF7A&fire=6BAF7A&currStreakLabel=6BAF7A&background=1a1f1a&stroke=6BAF7A&currStreakNum=ffffff&sideLabels=6BAF7A&sideNums=ffffff&dates=9ca3af" width="90%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abdullahbilal64&hide_border=true&ring=2F4F3F&fire=2F4F3F&currStreakLabel=2F4F3F&background=F5F5F0&stroke=2F4F3F&currStreakNum=333333&sideLabels=2F4F3F&sideNums=333333&dates=666666" width="90%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahbilal64&hide_border=true&ring=2F4F3F&fire=2F4F3F&currStreakLabel=2F4F3F&background=F5F5F0&stroke=2F4F3F&currStreakNum=333333&sideLabels=2F4F3F&sideNums=333333&dates=666666" width="90%" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+*Have a project or idea? Let's connect.*
+
+[**abdullah-bilal.com**](https://www.abdullah-bilal.com/)
+
+</div>
